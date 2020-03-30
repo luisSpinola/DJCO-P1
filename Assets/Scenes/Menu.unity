@@ -98,7 +98,7 @@ LightmapSettings:
     m_TrainingDataDestination: TrainingData
     m_LightProbeSampleCountMultiplier: 4
   m_LightingDataAsset: {fileID: 0}
-  m_UseShadowmask: 1
+  m_UseShadowmask: 0
 --- !u!196 &4
 NavMeshSettings:
   serializedVersion: 2
@@ -4085,7 +4085,7 @@ MonoBehaviour:
   xDimension: 0
   YDimension: 0
   audioController: {fileID: 2084606012}
-  level: {fileID: 21300000, guid: 4f44f3873eeab444d9cc784a494493ad, type: 3}
+  level: {fileID: 21300000, guid: e9f289a77d7c87247acce7587d943c6f, type: 3}
   levelName: {fileID: 1179071036}
 --- !u!114 &873507125
 MonoBehaviour:
@@ -5568,13 +5568,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bc088f7021819c74aa673d99a5d2f58c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  normalSprite: {fileID: 21300000, guid: af6bdd7f0b203294590047996fd270b0, type: 3}
-  selectedSprite: {fileID: 21300000, guid: af6bdd7f0b203294590047996fd270b0, type: 3}
+  normalSprite: {fileID: 21300000, guid: 8d26798b80b2bc6429d01ff88fce3d9a, type: 3}
+  selectedSprite: {fileID: 21300000, guid: 8d26798b80b2bc6429d01ff88fce3d9a, type: 3}
   imageObject: {fileID: 1733697795}
   xDimension: 0
   YDimension: 0
   audioController: {fileID: 2084606012}
-  level: {fileID: 21300000, guid: 64086b1ffdfb6f34aa5870fc871768f8, type: 3}
+  level: {fileID: 21300000, guid: 4f44f3873eeab444d9cc784a494493ad, type: 3}
   levelName: {fileID: 1179071036}
 --- !u!114 &1215581344
 MonoBehaviour:
@@ -8472,7 +8472,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: af6bdd7f0b203294590047996fd270b0, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 8d26798b80b2bc6429d01ff88fce3d9a, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0

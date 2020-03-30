@@ -150,10 +150,10 @@ public class MenuController : MonoBehaviour {
     }
 
     public void LoadLevel5() {
-       LoadLevel(5);
+        LoadLevel(5);
     }
     public void LoadLevel6() {
-        Debug.Log("6");
+        LoadLevel(6);
     }
     public void LoadLevel(int index) {
 
