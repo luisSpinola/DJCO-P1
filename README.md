@@ -1,2 +1,2 @@
 # DJCO-P1
-FEUPINHO
+2D side scroller game using Unity URP pipeline
